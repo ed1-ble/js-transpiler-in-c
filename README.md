@@ -13,6 +13,7 @@ Might remake, but this repo gonna be abandoned i think
 ```bash
 make
 ./out test
+```
 
 ![ss1](s1.png)
 
