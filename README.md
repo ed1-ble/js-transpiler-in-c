@@ -14,7 +14,8 @@ Might remake, but this repo gonna be abandoned i think
 make
 ./out test
 ```
-
-![ss1](s1.png)
-
+Sample Program:
 ![ss2](s2.png)
+
+Output JS:
+![ss1](s1.png)
