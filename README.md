@@ -1,4 +1,4 @@
-# Simple calulator language transpiler to JavaScript
+# Simple calculator language transpiler to JavaScript
 
 Written in C, originally going to be transpiled to C, but I gave up on this halfway because of school stuff piling up.
 
